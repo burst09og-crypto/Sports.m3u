@@ -9,6 +9,11 @@ https://mini.allinonereborn.fun/tata.php?id=1977
 MTV
 https://mini.allinonereborn.fun/tata.php?id=1060
 
+#EXTINF:-1 tvg-name="B4U",B4U
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://b4uplay.com/sliv/stream.m3u8?id=1000009253&e=.m3u8
+
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="webchnl",M Laliga
 https://mini.allinonereborn.fun/tata.php?id=11248
 
