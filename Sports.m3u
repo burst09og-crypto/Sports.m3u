@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://i.postimg.cc/LXmNHXHv/ch638-425-305.png" group-title="Sports",Bein 1
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="" group-title="Sports",Bein 1
 http://kgms.xyz/live/2olli22/b2h5kWRbuQ/11.m3u8
 
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="webchnl",Sports tv fhd
@@ -10,8 +10,17 @@ http://aguasdecoco.cdnxjp.space:80/03985093485/903482930834/776
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/ts-us-w2-n1/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb563e1e796c608f84c33d78d5f262eea65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600a6641267edb689e3c5d92b92ffa2a6d380871999fac78df890a72cabc725636a326470aab1e628576087d90a939009732b87c4a42bc5120067cddf359bd0b0d97d956de6f4adafb8c2360625f5c98435ee3b02bf7a8904244dc64bfb102488b2f57f3d04a9dd314b28186469b17837fec159cc4f196db11d3d48c62ab56b560080e267c9f8578a1e537d9b256ae17e61306765c30c8a683ff424ee92d217dcb8f003bf89d69aaa83688614ddb4af81dc058d81aca69c7812ec0f19ba6222159c4a43b5407ea8b8199f2347c9667efaae4dc7d788ccce5192dd740d73822349cfc8441ca9355de9a2a8ba1714678e19f418992bb87afe1dd11dc0e8387d5882d4e4b540100ad54b6d538887e932bfe8e5b0a74796981d615c88fd25b70454a858b519d5338b1c9848eda416a9e38550aa630970b4541c3366570e06dca9b3a6d9b2f45d0666ab50b63c067f8bf0dbaf68fbd486bfb8e89128d0285d22bdcf210a664382b60e2a2563f4f2e25890e07f292ea73233fffad77a7b3289643de2bc25f288af4/89/848x480_1686360/index.m3u8
 
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="" group-title="Sports",D sports
+http://181.224.255.210:8001/play/a0s8
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="" group-title="Sports",Bein sports 2
+http://hydratv.pro:80/live/darweshq75/6679812/546147.m3u8
 
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="" group-title="Sports",DAZN 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="" group-title="Sports",AEW Dynamite
+https://cdn.telecloud.tv/CH3273/index.m3u8?token=LIVE_B_NnOSZRrnCAZz5Aspslr6Y99G17W7T3na
 
 
 
